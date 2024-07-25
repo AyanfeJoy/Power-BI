@@ -38,14 +38,13 @@ The questions the charts will answer:
 
 Brief Analysis Discussion
 
-The total price of 2015 price sales is Eight Hundred Seventeen Thousand Eight Hundred Sixty Dollars. By knowing the total amount of sales made in 2015, we will be able to set a target for 2016 sales, to make more profit and check for what to drop and add to increase the following year sales.
+The total 2015 pizza sales was Eight Hundred Seventeen Thousand Eight Hundred Sixty Dollars. 
 
-The business makes 4 types of pizza and in 5 different sizes. Classic was the pizza type that made more sales followed by supreme. Large size was the highest ordered pizza in 2015.
-There are 32 different pizza types and the top 5 most ordered types are, classic, bbq_ckn, hawaiian, pepper_salami, and thai_ckn.
+The business made 4 types of pizza in 5 different sizes. Classic was the pizza type that made more sales followed by supreme. Large size was the highest ordered pizza in 2015. There are 32 different pizza types and the top 5 most ordered types were, classic, bbq_ckn, hawaiian, pepper_salami, and thai_ckn.
 
-Orders and sales are made more in the afternoon around 12:00pm - 3:00pm.
+Orders and sales were made more in the afternoon around 12:00pm - 3:00pm.
 
-The lowest pizza price is 9.75, average is 16.50 and the highest price is 35.95. 
+The lowest pizza price was 9.75, average 16.50 and the highest price 35.95.
 
-There were most pizza sales in July but mostly in November.
+There were most pizza sales in July but peaked in November.
 
